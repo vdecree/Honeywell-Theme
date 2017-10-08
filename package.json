@@ -1,0 +1,22 @@
+{
+    "name": "honeywell-theme",
+    "displayName": "Honeywell Theme",
+    "description": "A honeywell theme for vscode",
+    "version": "0.0.2",
+    "publisher": "visualdecree",
+    "engines": {
+        "vscode": "^1.17.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Honeywell Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Honeywell Theme-color-theme.json"
+            }
+        ]
+    }
+}
